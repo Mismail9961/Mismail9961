@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 📚 Studying **BS in Computer Science** at **Sir Syed University of Engineering & Technology**  
+- 📚 Studying **BS in Cloud Computing ** at **Sir Syed University of Engineering & Technology**  
 - 💻 **Full Stack Developer** passionate about building scalable web & mobile applications  
 - 📱 **React Native Developer** crafting smooth and high-performing mobile apps  
 - 🌱 Tech explorer, always learning new **frameworks, tools, and technologies**  
