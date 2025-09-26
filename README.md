@@ -1,98 +1,57 @@
-<h1 align="center">👋 Hey, I'm Ismail</h1>
+# 👋 Hello, I'm Sheikh Muhammad Ismail  
 
-<p align="center">
-  🚀 Full Stack Developer | 🛠 WordPress Expert | 🛍 Shopify Website Developer  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mismail9961&label=Profile%20views&color=0e75b6&style=flat" alt="Mismail9961" />
-</p>
+🎯 Full Stack Developer | 🎯 React Native Enthusiast | 🎯 Next.js | 🎯 React.js | 🎯 Node.js | 🎯 MongoDB | 🎯 WordPress  
 
 ---
 
-## 🧑‍💻 About Me
-
-Hi there! I'm **Ismail**, a passionate and versatile **Full Stack Developer** with a strong focus on creating clean, modern, and scalable web solutions. I have a wide range of experience across technologies and platforms, including **custom React/Next.js apps**, **WordPress themes/plugins**, and **Shopify storefronts**.
-
-I'm always exploring new technologies, building projects that challenge my knowledge, and constantly refining my skills.
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Frontend
-- React.js ⚛️ / Next.js ⚡
-- JavaScript (ES6+), HTML5, CSS3
-- Tailwind CSS, Sass, Styled-Components
-
-### 🖥 Backend
-- Node.js, Express.js
-- MongoDB, Prisma, Firebase
-
-### 🛠 Platforms
-- WordPress (Custom Themes, ACF, CPT)
-- Shopify (Liquid, Storefront API, Metafields)
-- Vercel, Netlify, cPanel
-
-### 📦 Tools & Integrations
-- Git, GitHub, VS Code, Postman
-- ImageKit, Cloudinary, Google Vision AI
-- Figma, Canva (Design-to-Dev)
+## 👨‍💻 About Me  
+- 📚 Studying **BS in Computer Science** at **Sir Syed University of Engineering & Technology**  
+- 💻 **Full Stack Developer** passionate about building scalable web & mobile applications  
+- 📱 **React Native Developer** crafting smooth and high-performing mobile apps  
+- 🌱 Tech explorer, always learning new **frameworks, tools, and technologies**  
+- 🚀 Turning ideas into reality with clean, maintainable, and efficient code  
 
 ---
 
-## 🔥 Current Focus
+## ⚡ Skills & Tools  
 
-- 🚀 **Advanced video upload & enhancement pipeline** using:
-  - Next.js + Prisma + ImageKit
-  - AI-based auto-tagging & enhancement (Cloudinary / Google Vision)
-  - Admin dashboard for video listing & delete functionality
+### 🖥️ Frontend Development  
+- **HTML5 | CSS3 | JavaScript (ES6+) | React.js | Next.js | Redux Toolkit | TailwindCSS | Bootstrap | Material UI | Context API**
 
-- 🎨 **Responsive landing pages** with modern UI animations (sticky navbars, glassmorphism)
+### ⚙️ Backend Development  
+- **Node.js | Express.js | REST APIs | GraphQL | MongoDB | MySQL**
 
-- 🧠 Experimenting with **AI integrations**, performance tuning, and CMS flexibility
+### 📱 Mobile Development  
+- **React Native | Expo | API Integrations | Custom Components | Navigation | Firebase**
 
----
-
-## 🏆 Experience
-
-- 👨‍💼 **Junior Web Developer @ GFX Mansion** *(Jan 2023 – May 2023)*  
-  - Built responsive websites using WordPress and React  
-  - Customized Shopify stores for client brands  
-  - Helped clients achieve higher conversions with UX-focused design and speed optimization  
+### 🛠️ Other Tools & Platforms  
+- **Git & GitHub | VS Code | Postman | Firebase | Netlify | Vercel | WordPress | Elementor | Photoshop**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mismail9961&show_icons=true&theme=tokyonight&hide_border=true" alt="Ismail's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mismail9961&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mismail9961&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 🚀 What I Build  
+✅ Full Stack Web Apps  
+✅ Cross-platform Mobile Apps (iOS & Android)  
+✅ Landing Pages & Portfolios  
+✅ Business Websites & E-Commerce Platforms  
+✅ Dashboards, Forms & APIs Integrations  
+✅ WordPress & Custom Websites  
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Stats  
 
-- 📬 Email: sheikhmuhammadismail79@gmail.com  
-- 💻 GitHub: [@Mismail9961](https://github.com/Mismail9961)
-
----
-
-## 💡 Fun Facts
-
-- 🎧 Music + coffee = coding fuel ☕  
-- 🔍 I’m obsessed with pixel-perfect responsive design  
-- 📦 Love turning static websites into dynamic CMS-powered platforms  
-- ✨ Always looking for opportunities to collaborate on exciting projects  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
 
-<h3 align="center">Thanks for visiting! Let's build something awesome together. 💻🔥</h3>
+## 🌐 Connect with Me  
+
+- [LinkedIn](in/muhammad-ismail-7247262aa)  
+- [Twitter](https://x.com/SheikhIsmail83)  
+- [Portfolio Website](https://sheikh-muhammad-ismail.vercel.app/)  
+
+---
+
+⭐ **“Code. Build. Learn. Repeat.”** ⭐
