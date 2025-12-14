@@ -159,9 +159,3 @@ Technology evolves rapidly, and I remain committed to staying current with indus
 ## 📫 Let's Connect
 
 I'm always interested in discussing innovative projects, technical challenges, and collaboration opportunities.
-
-**GitHub Gists:** [https://gist.github.com/AJ-7885](https://gist.github.com/AJ-7885)
-
----
-
-*Building robust, scalable applications that make a difference.*
