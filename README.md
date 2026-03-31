@@ -1,161 +1,58 @@
-# 👋 Hello, I'm Sheikh Muhammad Ismail
+# Sheikh Muhammad Ismail
 
-**Full Stack Developer | React Native Specialist**
-
-With over 2 years of experience in Full Stack Development, I specialize in building scalable web applications, cross-platform mobile solutions, and interactive digital experiences. My expertise encompasses the complete Website development lifecycle, from system architecture and backend engineering to modern frontend frameworks and native mobile development.
-
----
-
-## 💼 Professional Profile
-
-I am a seasoned Full Stack Developer with deep expertise in JavaScript ecosystems, mobile application development, and enterprise software solutions. My career has been driven by a commitment to technical excellence, user-centric design, and continuous innovation.
-
-**Core Competencies:**
-- Full Stack Web & Mobile Application Development
-- React Native Cross-Platform Mobile Solutions
-- Enterprise Software Architecture & Design
-- User Experience (UX) Engineering
-- Agile Development & Team Leadership
+**Full Stack Developer · React Native Specialist**  
+3+ years building production-grade web and mobile applications across the full development lifecycle.
 
 ---
 
-## 🎯 Professional Objectives
+## Stack
 
-- Architect and deliver scalable, performant full stack solutions
-- Drive innovation through emerging technologies and development practices
-- Mentor development teams and foster collaborative engineering cultures
-- Build intuitive, accessible user experiences across web and mobile platforms
+**Frontend**  
+React.js · Next.js · React Native · TypeScript · Redux · Tailwind CSS · SASS · Styled Components
 
----
+**Backend**  
+Node.js · Express.js · Java (8/11/17) · RESTful APIs · GraphQL · WebSockets · Microservices
 
-## 🛠️ Technical Expertise
+**Mobile**  
+React Native CLI & Expo · React Navigation · Native Modules · iOS & Android Deployment
 
-### Frontend Development
-**Core Technologies:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React.js, React Native, Next.js, Redux
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Firebase Firestore · AWS DynamoDB · Sequelize · Mongoose
 
-**Styling & UI:**
-- SASS/SCSS, Styled Components, Tailwind CSS
-- Material-UI, Ant Design, React Native Paper
-- Responsive Design, CSS-in-JS
+**Cloud & DevOps**  
+AWS (EC2, S3, Lambda, RDS) · GCP · Firebase · Docker · Kubernetes · Jenkins · GitHub Actions · CI/CD Pipelines
 
-### Backend Development
-**Languages & Frameworks:**
-- Node.js, Express.js
-- Java 8/11/17, Java EE
-
-**API Development:**
-- RESTful APIs, GraphQL
-- WebSockets, Server-Sent Events
-- API Gateway & Microservices Architecture
-
-### Mobile Development
-**React Native Ecosystem:**
-- React Native CLI & Expo
-- React Navigation, Native Base
-- Redux, Context API, React Query
-- Native Modules & Bridge Development
-- iOS & Android Platform Integration
-
-### Database Technologies
-- **Relational:** PostgreSQL, MySQL, Oracle
-- **NoSQL:** MongoDB, Firebase Firestore, AWS DynamoDB
-- **ORM/ODM:** Sequelize, Mongoose, TypeORM
-
-### Cloud & DevOps
-**Cloud Platforms:**
-- Amazon Web Services (AWS): EC2, S3, Lambda, RDS, DynamoDB
-- Google Cloud Platform (GCP)
-- Firebase (Authentication, Hosting, Cloud Functions)
-- OpenShift, Heroku
-
-**CI/CD & Automation:**
-- Jenkins, GitHub Actions, Travis CI, CircleCI
-- Docker, Kubernetes
-- Automated Testing Pipelines
-- Infrastructure as Code (IaC)
-
-### Development Tools
-**IDEs & Editors:**
-- Visual Studio Code, IntelliJ IDEA, WebStorm, Android Studio, Xcode
-
-**Build Tools:**
-- Webpack, Vite, Rollup
-- Babel, ESLint, Prettier
-- Maven, Gradle
-
-**Version Control:**
-- Git, GitHub, GitLab, Bitbucket
-- Git Flow, Trunk-Based Development
-
-### Testing & Quality Assurance
-- **Unit Testing:** Jest, JUnit, Mocha, Chai
-- **Integration Testing:** React Testing Library, Enzyme
-- **E2E Testing:** Cypress, Detox (React Native), Selenium
-- **Performance Testing:** Lighthouse, WebPageTest
-- **Code Quality:** SonarQube, ESLint, Checkstyle
-
-### Project Management & Collaboration
-**Methodologies:**
-- Agile/Scrum, Kanban, Test-Driven Development (TDD)
-
-**Tools:**
-- Jira, Confluence, Trello, Asana
-- Slack, Microsoft Teams
-- Figma, Adobe XD
-
-### Design & Multimedia
-- Adobe Creative Suite (Photoshop, Illustrator, After Effects)
-- GIMP, Inkscape
-- SVG Animation, Motion Graphics
-- UI/UX Design Principles, Human-Computer Interaction (HCI)
+**Testing**  
+Jest · JUnit · Cypress · Detox · React Testing Library · SonarQube · Lighthouse
 
 ---
 
-## 📱 Mobile Development Focus
+## What I Build
 
-As a React Native Developer, I build high-performance cross-platform mobile applications with native capabilities:
-
-- **Platform Integration:** Deep linking, push notifications, biometric authentication
-- **Performance Optimization:** Code splitting, lazy loading, native module optimization
-- **State Management:** Redux, MobX, Zustand, Recoil
-- **Native Features:** Camera, GPS, sensors, offline-first architecture
-- **App Deployment:** Apple App Store & Google Play Store submission and management
+- Cross-platform mobile apps with native capabilities — deep linking, push notifications, biometric auth, offline-first
+- Full stack web applications with scalable microservices architecture
+- Real-time systems using WebSockets and live data sync
+- Secure APIs with OAuth 2.0, JWT, and encrypted data flows
+- Serverless workflows on AWS Lambda and Firebase Functions
 
 ---
 
-## 🌐 Full Stack Architecture
+## Approach
 
-I design and implement complete application ecosystems:
-
-- **Microservices Architecture:** Service decomposition, API gateways, inter-service communication
-- **Serverless Computing:** AWS Lambda, Google Cloud Functions, Firebase Functions
-- **Real-time Applications:** WebSocket implementations, live data synchronization
-- **Security:** OAuth 2.0, JWT, encryption, secure API design
-- **Scalability:** Load balancing, caching strategies, database optimization
+Clean, maintainable code. User-first thinking. No over-engineering.  
+I work across the entire product lifecycle — architecture, implementation, testing, and deployment.
 
 ---
 
-## 💡 Philosophy
+## Tools & Workflow
 
-I believe in writing clean, maintainable code that prioritizes user experience and business value. My approach combines technical rigor with pragmatic problem-solving, always focusing on delivering solutions that scale and adapt to evolving requirements.
-
-**Key Principles:**
-- Code quality and maintainability over quick fixes
-- User-centered design in every development decision
-- Continuous learning and skill refinement
-- Collaborative teamwork and knowledge sharing
-- Comprehensive testing and documentation
+Git · GitHub · Jira · Figma · Adobe XD · VS Code · IntelliJ · Xcode · Android Studio  
+Agile / Scrum · TDD · Code Reviews · Technical Documentation
 
 ---
 
-## 🎓 Continuous Learning
+## Let's Talk
 
-Technology evolves rapidly, and I remain committed to staying current with industry trends, best practices, and emerging frameworks. I actively engage with developer communities, contribute to open-source projects, and pursue ongoing professional development.
+Open to interesting projects, technical collaborations, and challenging problems.
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing innovative projects, technical challenges, and collaboration opportunities.
+> [LinkedIn](https://www.linkedin.com/in/sheikh-muhammad-ismail-8b50383a2/) · [Email](sheikhmuhammadismail45@gmail.com)
